@@ -1,4 +1,4 @@
-# :bar-chart: Dashboards 
+# :bar_chart: Dashboards 
 
 This space is for all dashboards created associated with Alura, be it course or challenge related. 
 
