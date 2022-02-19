@@ -9,7 +9,9 @@ Dashboard made for the course ["Power BI Desktop: Construindo meu primeiro dashb
 Detailed analysis of fictional company Alura Pets's revenue, including total revenue, revenue by sex, revenue by neighborhood and other features. 
 
 Tools used: Power BI
+
 Data: Provided by Alura
+
 Directory: [course-first-dashboard](https://github.com/beamaia/alura-bi/tree/main/course-first-dashboard) 
 
 ![Pet dashboard](course-first-dashboard/resources/alura-pet-shop.gif)
